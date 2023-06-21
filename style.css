@@ -1,0 +1,147 @@
+
+#username {
+position: absolute;
+	margin: 168px 557px;
+	width: 200px;
+		height: 31px;
+}
+#password{
+position: absolute;
+	margin: 260px 557px;
+	width: 200px;
+	height: 31px;
+
+}
+#login {
+position: absolute;
+	margin: 315px 605px;
+	width: 89px;
+	height: 19px;
+}
+#studentname {
+position: absolute;
+	margin: 315px 605px;
+	width: 89px;
+	height: 19px;
+}
+#stage {
+position: absolute;
+	margin: 315px 605px;
+	width: 89px;
+	height: 19px;
+}
+
+#char {
+position: absolute;
+	margin: 500px 605px;
+	width: 89px;
+	height: 19px;
+}
+.logo 
+{
+	width:100px ;
+	height:100px;
+	margin-left: 632px
+}
+.header{
+	position:relative ;
+}
+.header .iraq1{
+	position: absolute;
+	margin: -95px 1200px;
+	width: 200px;
+
+}
+.header .iraq2{
+	position: absolute;
+	margin: -50px 1222px;
+	width: 200px;
+
+}
+.v1 {
+		position: absolute;
+	margin: -111px 50px;
+	width: 500px;
+}
+.v2 {
+		position: absolute;
+	margin: -75px 50px;
+	width: 500px;
+	
+}
+.v3 {
+		position: absolute;
+	margin: -45px 60px;
+	width: 500px;
+	
+}
+.b {
+		position: absolute;
+	margin: 61px -10px;
+	width: 118px;
+	
+
+}
+.sh1 {
+	position: absolute;
+	margin: 61px -10px;
+}
+.sh2 {
+	position: absolute;
+	margin: 126px 3px;
+	width: 50px;
+}
+.sh3 {
+	position: absolute;
+	margin:217px 3px;
+}
+.sh4 {
+	position: absolute;
+	margin: 349px 578px;
+	color: black;
+	width: 100px;
+	height: 50px;
+}
+
+#studentname2 {
+
+	position: absolute;
+	margin: 300px 580px;
+	
+
+}
+#stage {
+
+	position: absolute;
+	margin: 380px 595px;
+	
+
+}
+#char {
+
+	position: absolute;
+	margin: 380px 595px;
+	
+
+}
+#sience {
+
+	position: absolute;
+	margin: 380px 595px;
+	
+
+}
+.l1 {
+
+	position: absolute;
+	margin: 150px 919px; 
+		width: 89px;
+	height: 19px;	
+
+}
+.l2 {
+
+	position: absolute;
+	margin: 95px 799px; 
+		width: 156px;
+	height: 39px;	
